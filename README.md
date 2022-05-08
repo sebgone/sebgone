@@ -1,10 +1,32 @@
-- 👋 Hi, I’m Sebastian Gondek
-- 👀 I’m interested in DIY projects associated with programming, electronics and mechanics 
-- 🌱 I’m currently learning embedded systems and C language
-- 📫 Contact with me 
-  - sebastiangondekk@gmail.com
 
-<!---
-sebgone/sebgone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##  Hi, I’m Sebastian Gondek 🖐️
+
+### About me:
+- 👨‍🎓 I graduate in fields of electronics, mechatronics and computer science.
+- 💻 I’m interested in DIY projects associated with programming, electronics and mechanics.
+- 🔧 I like designing, programming and building new devices.  
+- 📚 I’m currently learning embedded systems and develop C\C++ language skils
+- 👀 I’m looking to collaborate on interesting projects
+
+<br>
+
+### Technology:
+
+| Programming | Hardware | Tools | Other | Web basics | Simulation basics |
+|-------------|----------|-------|-------|------------|-------------------|
+|C\C++\C# <br> Python <br> Matlab|Arduino <br> Raspberry Pi <br><br>|Eagle <br> AutoCAD <br> Inventor|Git<br>Linux<br><br>|html \ js \ css \ php <br> C# MVC <br><br>|LTspice <br> Multisim <br> Fluidsim|
+
+<br>
+
+### Contact: 
+- ✉️ sebastiangondekk@gmail.com
+- 🔗 [SoloLearn](https://www.sololearn.com/profile/262645)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  Linkedin](https://www.linkedin.com/)
+
+
+<br>
+
+### Example projects:
+1. [Example of electronics projects](https://github.com/sebgone/SmallProjects)
+2. [Example of embedded projects](https://github.com/sebgone/MediumProjects)
+3. [Example of software projects](https://github.com/sebgone/SoftwareProjects)
