@@ -20,7 +20,6 @@
 
 ### Contact: 
 - ✉️ sebastiangondekk@gmail.com
-- 🔗 [SoloLearn](https://www.sololearn.com/profile/262645)
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  Linkedin](https://www.linkedin.com/)
 
 
