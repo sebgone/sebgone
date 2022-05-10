@@ -20,7 +20,7 @@
 
 ### Contact: 
 - ✉️ sebastiangondekk@gmail.com
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)Linkedin](https://www.linkedin.com/in/sebastiangondek)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)  Linkedin](https://www.linkedin.com/in/sebastiangondek)
 
 
 <br>
