@@ -14,7 +14,7 @@
 
 | Programming | Hardware | Tools | Other | Web basics | Simulation basics |
 |-------------|----------|-------|-------|------------|-------------------|
-|C\C++\C# <br> Python <br> Matlab|Arduino <br> Raspberry Pi <br><br>|Eagle <br> AutoCAD <br> Inventor|Git<br>Linux<br><br>|html \ js \ css \ php <br> C# MVC <br><br>|LTspice <br> Multisim <br> Fluidsim|
+|C\C++\C# <br> Python|Arduino <br> Raspberry Pi <br> Stm32 <br><br>|Eagle <br> AutoCAD <br> Inventor|Git<br>Linux<br><br>|html \ js \ css \ php <br> C# MVC <br><br>|LTspice <br> Multisim <br> Fluidsim|
 
 <br>
 
