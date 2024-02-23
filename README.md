@@ -12,9 +12,9 @@
 
 ### Technology:
 
-| Programming | Hardware | Tools | Other | Web basics | Simulation basics |
-|-------------|----------|-------|-------|------------|-------------------|
-|C\C++\C# <br> Python|Arduino <br> Raspberry Pi <br> Stm32 <br><br>|Eagle <br> AutoCAD <br> Inventor|Git<br>Linux<br><br>|html \ js \ css \ php <br> C# MVC <br><br>|LTspice <br> Multisim <br> Fluidsim|
+| Programming | Hardware | CAD | Other | Scripting | WebDev | Simulation |
+|-------------|----------|-----|-------|---------- |--------|------------|
+|C <br> C++ <br> C# <br> Python|Arduino <br> Raspberry Pi <br> Stm32 <br><br>|Eagle <br> AutoCAD <br> Inventor <br><br>|Git <br> Linux <br><br><br>|Python <br> Batch <br><br><br>|
 
 <br>
 
