@@ -34,3 +34,4 @@
 
 ### Other repositories:
 1. [Programmer Calculator](https://github.com/sebgone/ProgrammerCalculatorApp)
+2. [CubeMX projects copy script](https://github.com/sebgone/CubeMXCopy)
