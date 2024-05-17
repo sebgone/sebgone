@@ -25,7 +25,7 @@
 
 <br>
 
-### Example of projects during studies:
+### Example of educational projects:
 1. [Example of electronics projects](https://github.com/sebgone/SmallProjects)
 2. [Example of embedded projects](https://github.com/sebgone/MediumProjects)
 3. [Example of software projects](https://github.com/sebgone/SoftwareProjects)
