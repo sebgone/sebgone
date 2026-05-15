@@ -1,20 +1,19 @@
 
-##  Hi, I’m Sebastian Gondek 🖐️
+##  Hi, I’m Sebastian 🖐️
 
 ### About me:
 - 👨‍🎓 I graduate in fields of electronics, mechatronics and computer science.
 - 💻 I’m interested in DIY projects associated with programming, electronics and mechanics.
-- 🔧 I like designing, programming and building new devices.  
-- 📚 I’m currently learning embedded systems and develop C\C++ language skils
-- 👀 I’m looking to collaborate on interesting projects
+- 🔧 I enjoy designing, prototyping and building engineering solutions.
+- 🔍 I’m driven both by practical problem‑solving and by curiosity about how things work.
 
 <br>
 
 ### Technology:
 
-| Programming | Hardware | CAD | Other | Scripting | WebDev | Simulation |
-|-------------|----------|-----|-------|---------- |--------|------------|
-|C <br> C++ <br> C# <br> Python|Arduino <br> Raspberry Pi <br> Stm32 <br><br>|Eagle <br> AutoCAD <br> Inventor <br><br>|Git <br> Linux <br><br><br>|Python <br> Batch <br><br><br>|
+| Programming | Hardware | CAD | Other | Scripting | WebDev |
+|-------------|----------|-----|-------|---------- |--------|
+|C <br> C++ <br> C# <br> Python|Arduino <br> Raspberry Pi <br> Stm32 <br><br>|Eagle <br> AutoCAD <br> Inventor <br><br>|Git <br> Linux <br><br><br>|Python <br> Batch <br> Bash <br><br>|HTML <br> CSS <br><br><br>
 
 <br>
 
