@@ -2,7 +2,7 @@
 ##  Hi, I’m Sebastian 🖐️
 
 ### About me:
-- 👨‍🎓 I graduate in fields of electronics, mechatronics and computer science.
+- 👨‍🎓 I graduated in fields of electronics, mechatronics and computer science.
 - 💻 I’m interested in DIY projects associated with programming, electronics and mechanics.
 - 🔧 I enjoy designing, prototyping and building engineering solutions.
 - 🔍 I’m driven both by practical problem‑solving and by curiosity about how things work.
@@ -24,13 +24,12 @@
 
 <br>
 
-### Example of educational projects:
-1. [Example of electronics projects](https://github.com/sebgone/SmallProjects)
-2. [Example of embedded projects](https://github.com/sebgone/MediumProjects)
-3. [Example of software projects](https://github.com/sebgone/SoftwareProjects)
+### Project repositories:
+1. [CubeMX projects copy script](https://github.com/sebgone/CubeMXCopy)
 
 <br>
 
-### Other repositories:
-1. [Programmer Calculator](https://github.com/sebgone/ProgrammerCalculatorApp)
-2. [CubeMX projects copy script](https://github.com/sebgone/CubeMXCopy)
+### Examples of educational projects:
+1. [Example of electronics projects](https://github.com/sebgone/SmallProjects)
+2. [Example of embedded projects](https://github.com/sebgone/MediumProjects)
+3. [Example of software projects](https://github.com/sebgone/SoftwareProjects)
